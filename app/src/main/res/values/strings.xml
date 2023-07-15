@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Gen-chi</string>
+    <string name="display_text">translation:</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="btn_login">LOG IN</string>
+    <string name="about_app">About</string>
+    <string name="login">Login Now</string>
+    <string name="app">The App</string>
+    <string name="about_gen_chi">Gen-chi is a mini mobile application project developed to help users learn and understand the Japanese language.</string>
+    <string name="about_gen_chi_2">"Gengo" means (word) and "Michi"  means (righteous way)</string>
+    <string name="about_gen_chi_3">The app name was referenced from the Japanese saying "Gengo o shiru koto wa, kenja e no Michi" which translates to "You live a new life for every new language you speak. If you know only one language, you live only once".</string>
+    <string name="login_instruction">Please enter the details below to continue.</string>
+    <string name="about_developer">Developer</string>
+    <string name="about_developer_details">Bernadette de Jesus is a Junior Software Engineer who aspires to become a Mobile Developer. She loves being weird. She built this application to cultivate her skills and learn nihonggo.</string>
+
+</resources>

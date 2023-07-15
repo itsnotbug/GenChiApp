@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_Vocab"
+        android:icon="@drawable/baseline_language_24"
+        android:title="Vocabulary" />
+    <item
+        android:id="@+id/item_Phrases"
+        android:icon="@drawable/baseline_translate_24"
+        android:title="Phrases" />
+    <item
+        android:id="@+id/item_Numbers"
+        android:icon="@drawable/baseline_numbers_24"
+        android:title="Numbers" />
+</menu>
